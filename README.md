@@ -1,4 +1,4 @@
-# ldd-game-frontend
+# game-frontend
 
 ## Project setup
 ```
